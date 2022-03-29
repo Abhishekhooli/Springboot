@@ -1,12 +1,11 @@
 package c2tc.batch.product;
 
+import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
-
-import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.data.annotation.Id;
 
-@EntityScan
+@Entity
 public class Admin
 {
 	private Integer id;

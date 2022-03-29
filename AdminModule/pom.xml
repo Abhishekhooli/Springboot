@@ -8,13 +8,13 @@
 		<version>2.6.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>adminmodule</artifactId>
+	<groupId>c2tc.b7</groupId>
+	<artifactId>orderdetails</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AdminModule</name>
+	<name>OrderDetails</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
